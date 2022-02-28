@@ -428,6 +428,9 @@
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 - [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
+- [Amplication](https://github.com/amplication/amplication#readme) - Amplication auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
+
+
 
 ## Computer Science
 
